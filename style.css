@@ -1,0 +1,303 @@
+htmL{
+  scroll-behavior: smooth;
+}
+
+body{
+  margin:0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: radial-gradient(#fff,#ffd6d5);
+}
+
+nav{
+  width: 100%;
+  overflow: hidden;
+  position:fixed;
+  top: 0; 
+  background-color: rgba(0,0,0,0.4);
+  padding: 0 0 30px 0;
+
+}
+nav > ul {
+margin-top: -40px;
+}
+nav > ul li {
+margin-top: -46px;
+}
+nav img {
+padding: 10px;
+}
+ul{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  margin-left: 35%;  
+  margin-top: 1px;
+
+}
+
+li{
+  float: left;
+  list-style: none;
+
+}
+
+a{
+  padding: 20px;
+  width: 100px;
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;   
+}
+/* .menu-icon{
+  width: 28px; 
+  margin-left: 1050px; 
+  margin-top: 35px;
+  display: none;
+} */
+
+/* media query for menu */
+/* @media and screen and (max-width: 800px){
+  nav ul{
+    position: absolute;
+    top: 70px;
+    left: 0;
+    background: #333;
+    width: 100%;
+  }
+  nav ul li{
+    display: block;
+    margin-right: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .menu-icon{
+    display: block;
+    cursor: pointer;
+  }
+} */
+
+.container{
+  max-width: 1300px;
+  margin: auto;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.row, .row1{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.cols-2, .row1.cols-2 {
+  flex-basis: 30%;
+  min-width: 300px;
+}
+.cols-2 img{
+  max-width: 100%;
+  padding: 50px 0;
+  margin-top: 100px;
+}
+.cols-2 h1{
+  font-size: 50px;
+  line-height: 60px;
+  margin: 25px 0;
+}
+
+.details{
+  font-weight: bold;
+  margin-right: 80px;
+  color: pink;
+}
+
+.details ul {
+  margin-top:  1.3rem;
+} 
+
+/*.btn{
+color: red;
+margin-top: 5%;
+padding: 0 20px;
+
+}
+
+*/
+.btn{
+  display: inline-block;
+  background: #ff523a;
+  color: #fff;
+  padding: 8px 30px;
+  margin: 30px 0;
+  border-radius: 30px;
+}
+/* .header, .row1{
+  background: radial-gradient(#fff,#ffd6d5);
+
+} */
+.header.row{
+  margin-top: 70px;
+}
+
+
+.contact{
+  border: 1px solid black;
+  text-align: center;
+  font-size: 20px;
+  margin: 10%;
+  padding: 30px;
+  background: cornflowerblue;
+  color: black;
+}
+.contact h2{
+  color: #fff;
+}
+
+/* For About Section */
+.about{
+border: 1px solid black;
+text-align: center;
+font-size: 20px;
+margin: 10%;
+padding: 30px;
+background: cornflowerblue;
+color: white;
+margin-top: 30px;
+
+}
+.about img{
+  padding-bottom: 50%;
+ height: 200px;
+width: 200px;
+
+}
+/* About Section Ends here */
+/* For Gallery section */
+.gallery{
+border: 1px solid black;
+text-align: center;
+font-size: 20px;
+margin: 10%;
+padding: 30px;
+background: cornflowerblue;
+color: white;
+
+}
+.gallery img{
+  
+  padding: 50px 0;
+ height: 500px;
+width: 400px;
+}
+/* Gallery Section Ends here */
+/* For footer section */
+.footer{
+  background: #000;
+  color: #8a8a8a;
+  font-size: 15px;
+  padding: 60px 0 20px;
+}
+.footer p{ 
+  color: #8a8a8a;
+}
+.footer h3{
+  color: #fff;
+  margin-bottom: 20px;
+}
+.footer-cols-1, .footer-cols-2, .footer-cols-3{
+  min-width: 250px;
+  margin-bottom: 20px;
+
+}
+
+.footer-cols-1{
+  flex-basis: 30%;
+}
+.footer-cols-2{
+  flex: 1;
+  text-align: center;
+
+}
+.footer-cols-2 img{
+  width: 180px;
+  margin-bottom: 20px;
+}
+.footer-cols-3{
+  flex-basis: 12%;
+  text-align: center;
+}
+ul{
+  list-style-type: none;
+}
+.app-logo{ 
+  margin-top: 20px; 
+}
+.app-logo img{
+  width: 120px;
+  height: 40px;
+}
+.socialmedia{
+  margin-top: 5px;
+
+}
+.socialmedia img{
+  width: 30px;
+  height: 30px;
+}
+.footer hr{
+  border: none;
+  background: #b5b5b5;
+  height: 1px;
+  margin: 20px 0;
+}
+.copyright{
+  text-align: center;
+}
+
+/* Footer section ends here */
+
+/* Form Section Starts Here */
+.form, .login,.rate {
+  border: 1px solid black;
+  text-align: center;
+  font-size: 15px;
+  margin: 20%;
+  background:silver;
+  color: white;
+}
+.form h1, .login h1,.rate h1{
+  font-size:30px ;
+  color: black;
+}
+input{
+  padding: 10px;
+  font-size: inherit;
+}
+input[type="text"],textarea,select,option, input[type="password"]{
+  display: block;
+  margin-bottom: 25px;
+  width: 100% ;
+}
+.table{
+  margin: 10%;
+  padding-left: 10%;
+
+}
+th{
+  color: #fff;
+	background: red;
+	font-weight: normal;
+}
+
+td{
+	padding: 10px 5px;
+}
+
+.ratetable{
+  margin: 20%;
+  padding-left: 20%;
+ 
+  
+
+}
