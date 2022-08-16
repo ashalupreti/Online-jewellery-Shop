@@ -12,7 +12,7 @@ paste in (xamp/ htdocs) for xamp or (wamp/www) for wamp. IV. Open phpmyadmin (ht
 
 V. Create a database with name ashal.
 
-VI. Import shakyauserdata.sql file (given inside the zip package ). VII. Run the script http://localhost/project/index.php.
+VI. Import ashaluserdata.sql file (given inside the zip package ). VII. Run the script http://localhost/project/index.php.
 
 VIII. Note: For Admin Login
 
