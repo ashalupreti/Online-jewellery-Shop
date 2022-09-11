@@ -24,5 +24,3 @@ Username: ashal
 Password:ashal
 
 Thanks!!!!!!!
-
-## Check it out here: https://ashalupreti.github.io/Online-jewellery-Shop/
