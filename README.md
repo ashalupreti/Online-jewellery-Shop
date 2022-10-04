@@ -10,8 +10,9 @@ I. Download the zip file.
 II. Extract the file and copy “project” folder.
 
 III. Paste inside the root directory where you install xamp/ wamp (local disk C: drive D: drive E: )
+paste in (xamp/ htdocs) for xamp or (wamp/www) for wamp. 
 
-paste in (xamp/ htdocs) for xamp or (wamp/www) for wamp. IV. Open phpmyadmin (http://localhost/phpmyadmin/).
+IV. Open phpmyadmin (http://localhost/phpmyadmin/).
 
 V. Create a database with name ashal.
 
