@@ -9,8 +9,8 @@ I. Download the zip file.
 
 II. Extract the file and copy “project” folder.
 
-III. Paste inside the root directory where you install xamp/ wamp (local disk C: drive D: drive E: )
-paste in (xamp/ htdocs) for xamp or (wamp/www) for wamp. 
+III. Paste inside the root directory where you install xampp/ wamp (local disk C: drive D: drive E: )
+paste in (xampp/ htdocs) for xampp or (wamp/www) for wamp. 
 
 IV. Open phpmyadmin (http://localhost/phpmyadmin/).
 
