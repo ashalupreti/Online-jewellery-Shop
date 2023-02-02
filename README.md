@@ -1,29 +1,60 @@
-# ONLINE JEWELLERY STATION
-## Output:
+# Online Jewellery Shop
+
+A web-based e-commerce platform for buying and selling jewellery online, built with HTML, CSS, PHP, and SQL.
+
+## Features
+- Product listings and display
+- Shopping cart and checkout system
+- Customer account management
+- Order history and tracking
+- Payment processing
+- Admin panel for managing products, orders, and customer information
+
+## Screenshots:
 ![Screenshot (230)](https://user-images.githubusercontent.com/90265701/189528337-73af861f-97fd-4346-92ba-ec6b4cc68a30.png)
 
+## Getting Started
 
-*Steps to run the project
+These instructions will help you to run the Online Jewellery Shop on your local machine.
 
-I. Download the zip file.
+### Prerequisites
 
-II. Extract the file and copy “project” folder.
+- [XAMPP](https://www.apachefriends.org/download.html) or any other PHP development environment
+- [MySQL](https://www.mysql.com/downloads/)
 
-III. Paste inside the root directory where you install xampp/ wamp (local disk C: drive D: drive E: )
-paste in (xampp/ htdocs) for xampp or (wamp/www) for wamp. 
+### Running the application
 
-IV. Open phpmyadmin (http://localhost/phpmyadmin/).
+1. Clone the repository:
+git clone https://github.com/ashalupreti/Online-jewellery-Shop.git
 
-V. Create a database with name ashal.
+2. Navigate to the cloned repository:
+cd Online-jewellery-Shop
 
-VI. Import ashaluserdata.sql file (given inside the zip package ). 
+3. Copy the cloned folder and paste inside the root directory where you install xampp/wamp either in local disk C: drive D: or drive E: paste in path "xampp/ htdocs" for xampp and "wamp/www" for wamp.
 
-VII. Run the script http://localhost/project/index.php.
+4. Start the XAMPP or your preferred PHP development environment.
+Open phpmyadmin (http://localhost/phpmyadmin/)
 
-VIII. Note: For Admin Login
+5. Create a database with name `ashal` for the project in MySQL and import the `ashaluserdata.sql` file.
 
-Username: ashal
+6. Open your web browser and navigate to `http://localhost/project/index.php`.
 
-Password:ashal
+8.  For Admin Login
 
-Thanks!!!!!!!
+Username: `ashal`
+Password: `ashal`
+
+## Built With
+
+- HTML
+- CSS
+- PHP
+- SQL
+
+## Contributing
+
+Your contributions are always welcome! If you have any suggestions or bug fixes, please submit a pull request with your changes.
+
+## License
+
+This project is licensed under the MIT License. Please refer to the [LICENSE](LICENSE) file for details.
