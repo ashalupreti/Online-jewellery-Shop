@@ -39,8 +39,7 @@ Open phpmyadmin (http://localhost/phpmyadmin/)
 
 6. Open your web browser and navigate to `http://localhost/project/index.php`.
 
-8.  For Admin Login
-
+8.  For Admin Login:
 Username: `ashal`
 Password: `ashal`
 
