@@ -22,7 +22,7 @@
 
     <table border="3">
       <tr>
-        <th colspan="4">Ashal Jewellery</th>
+        <th colspan="4">Shakya Jewellery</th>
       </tr>
       <tr>
         <th colspan="4">Rates</th>
@@ -93,7 +93,7 @@
         </div>
       </div>
       <hr>
-      <p class="copyright">© 2022 License ashal jewellery. All rights reserved.</p>
+      <p class="copyright">© 2022 License Shakya jewellery. All rights reserved.</p>
     </div>
   </div>
 

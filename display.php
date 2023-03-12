@@ -92,7 +92,7 @@
       </div>
       <hr>
       <!-- Copright section -->
-      <p class="copyright">© 2022 License Ashal jewellery. All rights reserved.</p>
+      <p class="copyright">© 2022 License Shakya jewellery. All rights reserved.</p>
     </div>
   </div>
 

@@ -86,7 +86,7 @@
 				</div>
 			</div>
 			<hr>
-			<p class="copyright">© 2022 License ashal jewellery. All rights reserved.</p>
+			<p class="copyright">© 2023 License Shakya jewellery. All rights reserved.</p>
 		</div>
 	</div>
 </body>

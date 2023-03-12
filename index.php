@@ -62,7 +62,7 @@
         <h2>About</h2>
         <div class="row">
             <div class="cols-2">
-                <p>Ashal Jewellers is one of the oldest jewellery shop located in Hetauda-4, Huprachaur, Makwanpur. It gives the quality services of ordering the jewellery items.It had got a experience of more than 20 years with well trained employees.</p>
+                <p>Shakya Jewellers is one of the oldest jewellery shop located in Hetauda-4, Huprachaur, Makwanpur. It gives the quality services of ordering the jewellery items.It had got a experience of more than 20 years with well trained employees.</p>
 
             </div>
             <div class="cols-2">
@@ -263,7 +263,7 @@
             P.O.Box:25963<br>
             Tel:+977 05791827<br>
             Fax:+977 05791827<br>
-            Email:ashaljewellery@gmail.com<br>
+            Email:shakyajewellery@gmail.com<br>
         </h3>
         <img src="designs/map.png">
     </section>
@@ -298,7 +298,7 @@
             </div>
             <hr>
             <!-- Copright section -->
-            <p class="copyright">© 2022 License ashal jewellery. All rights reserved.</p>
+            <p class="copyright">© 2023 License Shakya jewellery. All rights reserved.</p>
 
         </div>
     </div>
