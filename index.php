@@ -19,8 +19,6 @@
                 <li><a href="#contact">Contact</a></li>
                 <li><a href="login.php">Admin</a></li>
                 <li><a href="rate.php">Rate</a></li>
-
-
             </ul>
 
         </nav>
