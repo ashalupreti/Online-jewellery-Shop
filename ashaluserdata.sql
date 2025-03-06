@@ -40,7 +40,7 @@ CREATE TABLE IF NOT EXISTS `login` (
 --
 
 INSERT INTO `login` (`Id`, `USER`, `PASSWORD`) VALUES
-(1, 'ashal', 'ashal');
+(1, 'kritika', 'kritika');
 
 -- --------------------------------------------------------
 
