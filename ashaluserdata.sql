@@ -94,10 +94,10 @@ CREATE TABLE IF NOT EXISTS `userinfodata` (
 --
 
 INSERT INTO `userinfodata` (`id`, `user`, `email`, `mobile`, `address`, `code`, `interestedon`, `image`, `comment`) VALUES
-(1, 'ashal upreti', 'upreti.ashal@gmail.com', '9661874521', 'hetauda', '#03', 'Rings', 'upload/rings2.jpg', 'How much it will take to be ready? I want a 23 caret 1 tola rings .				'),
-(2, 'mehul chhetri', 'chhetri.mehul@gmail.com', '9874563210', 'dang', '#01', 'Necklace', 'upload/rings2.jpg', '				'),
-(3, 'madan aacharya', 'aacharya.madan@gmail.com', '9874563210', 'melamchi', '#01', 'Necklace', 'upload/rings2.jpg', '				'),
-(4, 'anurag paudel', 'paudel.anurag@gmail.com', '9874563210', 'kathmandu', '#01', 'Necklace', 'upload/necklace4.jpg', '				');
+(1, 'hari bahadur', 'haribahadur@gmail.com', '9661874521', 'chanahil', '#03', 'Rings', 'upload/rings2.jpg', 'How much it will take to be ready? I want a 23 caret 1 tola rings .				'),
+(2, 'kritika chhetri', 'kritika@gmail.com', '9874563210', 'dang', '#01', 'Necklace', 'upload/rings2.jpg', '				'),
+(3, 'shyam paudel', 'shyam.paudel@gmail.com', '9874563210', 'melamchi', '#01', 'Necklace', 'upload/rings2.jpg', '				'),
+(4, 'binda chhetri', 'binda.chhetri@gmail.com', '9874563210', 'kathmandu', '#01', 'Necklace', 'upload/necklace4.jpg', '				');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
