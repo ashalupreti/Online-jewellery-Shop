@@ -17,7 +17,6 @@ if($con){
  $mobile = $_POST['mobile'];
  $address=$_POST['address'];
  $code=$_POST['code'];
- $citizen=$_POST['citizen'];
  $jewellery=$_POST['jewellery'];
  $file=$_FILES['image'];
  $comments = $_POST['comments'];
