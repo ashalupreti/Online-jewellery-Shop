@@ -8,7 +8,7 @@ if($con){
  else{
  	echo "No connection";
  }
- mysqli_select_db($con, 'ashal');
+ mysqli_select_db($con, 'kritika');
 
  if(isset($_POST['upload'])){
 	 
