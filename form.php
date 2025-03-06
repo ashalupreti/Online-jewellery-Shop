@@ -37,12 +37,12 @@
 			<form action="userinfo.php" method="post" enctype="multipart/form-data">
 				<div>
 					<h2>Full Name</h2>
-					<input type="text" name="user" autocomplete="off" placeholder="Ashal Upreti">
+					<input type="text" name="user" autocomplete="off" placeholder="kritika Dangol">
 
 				</div>
 				<div>
 					<h2>Email Id</h2>
-					<input type="text" name="email" autocomplete="off" placeholder="Ashalupreti@gmail.com" id="emailid">
+					<input type="text" name="email" autocomplete="off" placeholder="kritikadangol@gmail.com" id="emailid">
 
 				</div>
 				<div>
