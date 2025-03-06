@@ -20,7 +20,7 @@ if($con){
  $jewellery=$_POST['jewellery'];
  $comments = $_POST['comments'];
 
-$query = "insert into userinfodata(user, email, mobile,address,code,citizenship,interestedon, image, comment) values('$user', '$email', '$mobile','$address','$code','$citizen','$jewellery', '$destfile', '$comments')";
+$query = "insert into userinfodata(user, email, mobile,address,code,citizenship,interestedon, image, comment) values('$user', '$email', '$mobile','$address','$code','$jewellery', '$comments')";
 
   echo "$query";
  mysqli_query($con,$query);
