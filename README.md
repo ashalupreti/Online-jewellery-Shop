@@ -35,13 +35,13 @@ cd Online-jewellery-Shop
 4. Start the XAMPP or your preferred PHP development environment.
 Open phpmyadmin (http://localhost/phpmyadmin/)
 
-5. Create a database with name `ashal` for the project in MySQL and import the `ashaluserdata.sql` file.
+5. Create a database with name `kritika` for the project in MySQL and import the `userdata.sql` file.
 
 6. Open your web browser and navigate to `http://localhost/project/index.php`.
 
 8.  For Admin Login:
-Username: `ashal`
-Password: `ashal`
+Username: `kritika`
+Password: `kritika`
 
 ## Built With
 
