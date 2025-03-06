@@ -35,7 +35,7 @@
       <tbody>
         <?php
         $con = mysqli_connect('localhost', 'root');
-        mysqli_select_db($con, 'ashal');
+        mysqli_select_db($con, 'kritika');
 
         $selectquery = "select * from userinfodata";
         $query = mysqli_query($con, $selectquery);
